@@ -1,0 +1,1 @@
+This is my first Git project. I’m learning how to use Git like a real developer.
